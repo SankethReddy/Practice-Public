@@ -1,5 +1,5 @@
 # US-Car-Accidents-Analysis-Project
-. This was a semester-long group project for the course Advanced Big Data Analytics (ITSS 4354) at UT Dallas. The projected consisted of:
+. This was a semester-long group project for the course Advanced Big Data Analytics (ITSS 4354) at UT Dallas during the Spring 2020 semester. The projected consisted of:
   - Determining a topic of interest (from the universe of datasets)
   - Developing a problem statement 
   - Loading data into a Big Data cluster
