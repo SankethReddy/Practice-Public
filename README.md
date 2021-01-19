@@ -1,5 +1,5 @@
 # US-Car-Accidents-Analysis-Project
-. This was a semester-long group project for the course Advanced Big Data Analytics (ITSS 4354) at UT Dallas during the Spring 2020 semester. The projected consisted of:
+. This was a semester-long project for the course Advanced Big Data Analytics (ITSS 4354) at UT Dallas during the Spring 2020 semester. The projected consisted of:
   - Determining a topic of interest (from the universe of datasets)
   - Developing a problem statement 
   - Loading data into a Big Data cluster
@@ -7,7 +7,7 @@
   - Generating Hive queries
   - Performing Machine Learning Tasks
  
-. Our original dataset was a 1.1 GB dataset from Kaggle that was a countrywide traffic accident dataset collected for the US from February 2016 to December 2019
+. The original dataset was a 1.1 GB dataset from Kaggle that was a countrywide traffic accident dataset collected for the US from February 2016 to December 2019
   - Here is the Kaggle link for the dataset: https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 
